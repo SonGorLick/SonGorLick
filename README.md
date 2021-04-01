@@ -58,7 +58,7 @@ Im also very good at writing Guides Ill End Up Making Some Soon or writing this 
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/SasakiMichie%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Vongola Famiglia%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Vongola Famiglia%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://www.twitch.tv/sasakimichiethedeathgod" target="_blank"><img src="https://img.shields.io/badge/sasakimichie%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
