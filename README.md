@@ -14,7 +14,7 @@
 <b>Nationality:</b> Anime God
 </li>
 <li>
-<b>Loves:</b> you! and donuts and games maybe -///-
+<b>Loves:</b> Waifu's! and Anime and games maybe -///-
 </li>
 <li>
 <b>Gender:</b> Him/He/Male
