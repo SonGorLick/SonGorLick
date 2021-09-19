@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphics Design, Music, Anime, Gaming
 </li>
 <li>
-<b>Working @:</b> Making Mods For Game's
+<b>Working On @:</b> Making Mods For Game's
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
