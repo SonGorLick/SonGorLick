@@ -9,7 +9,7 @@
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
-<b>Name:</b> Sasaki>
+<b>Name:</b> Sasaki Michie>
 <li>
 <b>Nationality:</b> Anime God
 </li>
@@ -20,10 +20,10 @@
 <b>Gender:</b> Him/He/Male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphics Design, Music, Anime, Gaming
+<b>Hobbys:</b> Tech Stuff, Graphics Design, Music, Anime, Gaming, Drawing
 </li>
 <li>
-<b>Working On @:</b> Making Mods For Game's
+<b>Working On @:</b> Making Mods For Game's 
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
