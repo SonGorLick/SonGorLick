@@ -54,9 +54,7 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 <img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/devices/xbox%403x.png" alt="xbox" width="100" hight="50">
-<img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/powershell%403x.png" alt="powershell" width="140" hight="50">
-<img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/vmware%403x.png" alt="vmware" width="130" hight="50">
-<img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/jetbrains_intellij%403x.png" alt="jetbrains_intellij" width="160" hight="50">
+<img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/powershell%403x.png" alt="powershell" width="140" hight="50"><img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/vmware%403x.png" alt="vmware" width="130" hight="50"><img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/jetbrains_intellij%403x.png" alt="jetbrains_intellij" width="160" hight="50">
 
 
 
