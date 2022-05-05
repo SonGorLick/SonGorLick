@@ -69,7 +69,7 @@ Im also very good at writing Guides Ill End Up Making Some Soon or writing this 
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/=%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.tw itch.tv/" target="_blank"><img src="https://img.shields.io/badge/sasakimichie%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.tw itch.tv/" target="_blank"><img src="https://img.shields.io/badge/%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
