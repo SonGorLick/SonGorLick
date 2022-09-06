@@ -85,7 +85,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <div>
 <br>
-<div align="right"><p>
+<div align="center"><p>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
