@@ -1,3 +1,5 @@
+![Header](./SonGorLick.png)
+
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -78,6 +80,15 @@ most used s-s-sociaw things >~< xoxox</p>
 <div align="center"><p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=85sxv7r4v39oaegk5af6mqi6t&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=85sxv7r4v39oaegk5af6mqi6t&redirect=true)
+
+</div>
+<br>
+<div>
+<br>
+<div align="right"><p>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
 <p>
 <br>
 <br>
