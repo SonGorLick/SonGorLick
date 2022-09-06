@@ -97,6 +97,15 @@ most used s-s-sociaw things >~< xoxox</p>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+
+<p>
+<br>
+<br>
+</div>
+<div>
+
+![Header](./octocat-1662437873457.png)
+
 </div>
 <hr>
 </div>
