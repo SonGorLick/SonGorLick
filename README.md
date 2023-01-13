@@ -1,4 +1,10 @@
 ![Header](./SonGorLick.png)
+  <a href="#" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-3/907512632754470935.png" alt="discordembed">  
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=gug5buyysj0ygjfjr1crpzhd2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=9900ff&bar_color_cover=false" alt="spotifyembed">
+  </a>
 
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
